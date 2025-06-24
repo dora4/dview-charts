@@ -2,6 +2,9 @@ dview-charts
 ![Release](https://jitpack.io/v/dora4/dview-charts.svg)
 --------------------------------
 
+#### 卡片
+![Uploading DORA视图 图表引擎.jpeg…]()
+
 #### Gradle依赖配置
 
 ```groovy
