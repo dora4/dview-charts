@@ -3,7 +3,7 @@ dview-charts
 --------------------------------
 
 #### 卡片
-![Uploading DORA视图 图表引擎.jpeg…]()
+![DORA视图 图表引擎](https://github.com/user-attachments/assets/b311c8f6-d8f8-4ee3-9a18-2375a017bfc7)
 
 #### Gradle依赖配置
 
